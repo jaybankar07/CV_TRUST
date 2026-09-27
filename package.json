@@ -1,5 +1,7 @@
 {
-  "name": "tanstack_start_ts",
+  "name": "cv-trust",
+  "version": "1.0.0",
+  "description": "CV-TRUST — Computer Vision Integrity Assurance Workspace (Smart India Hackathon PS 26228)",
   "private": true,
   "sideEffects": false,
   "type": "module",
@@ -70,7 +72,6 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.32.0",
-    "@lovable.dev/vite-tanstack-config": "^2.24.0",
     "@types/node": "^22.16.5",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
